@@ -11,3 +11,7 @@ The focus for this project will be to understand the concepts around a JavaScrip
 **🚨 Note: You will need to make GitHub commits to your project after each lesson in the Scrimba walkthrough, showing that you have followed along with the lessons.**
 
 Make sure to submit your project on the LMS Project Tab [DJS09] 
+
+Commands to run on the terminal:
+
+Npm install then Npm run build and then Npm start
